@@ -1,0 +1,4 @@
+ticker,price,volume,date,status
+GOOG,100,1e4,10/07/2022 14:26,0
+AAPL,200,1e6,10/07/2022 14:26,0
+
