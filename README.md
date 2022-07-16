@@ -3,7 +3,7 @@
 A simple discord bot which can watch the market for buy criteria (here, if a ticker breaches a user-defined price threshold). 
 
 ## How to use
-Firstly, you need to have a discord server with a bot added to it; you can do this by following [this guide](https://discordpy.readthedocs.io/en/stable/discord.html) or [my medium article](TO INCLUDE) on this topic.
+Firstly, you need to have a discord server with a bot added to it; you can do this by following [this guide](https://discordpy.readthedocs.io/en/stable/discord.html) or [my medium article](https://medium.com/@dannygrovesn7/i-programmed-a-humorous-discord-bot-to-watch-the-financial-markets-for-me-b8585f8659e3) on this topic.
 
 Once that is set-up, the bot is run from the `discord_bot.py` script, this needs to be configured with both the `BOT_ID` (bot token), and `CHANNEL_ID` which you can get by right-clicking the discord channel you wish to send messages into.
 
